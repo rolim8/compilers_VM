@@ -3,7 +3,7 @@
 
 Simple Compiler based on:
 <br>
-<h2>https://github.com/guihcs/compiler-virtual-machine</h2>
+<h3>https://github.com/guihcs/compiler-virtual-machine</h3>
 <br>
 <br>
 With the following Logical Operatores added:
