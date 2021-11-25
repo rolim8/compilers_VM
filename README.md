@@ -2,7 +2,6 @@
 
 
 Simple Compiler based on:
-<br>
 <h3>https://github.com/guihcs/compiler-virtual-machine</h3>
 <br>
 <br>
